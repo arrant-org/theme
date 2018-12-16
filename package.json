@@ -1,0 +1,20 @@
+{
+  "name": "@arrant/theme",
+  "version": "0.1.0",
+  "description": "The theme colors, variables, configs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrant-org/theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrant-org/theme/issues"
+  },
+  "homepage": "https://github.com/arrant-org/theme#readme"
+}
