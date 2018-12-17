@@ -34,7 +34,7 @@ console.log(theme.sizes.small.width)
 
 #### Properties
 
-- width
-- height
+- min-width
+- min-height
 - fz (font-size)
 - padding
